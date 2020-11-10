@@ -1,7 +1,7 @@
 {
-  "name": "lin_caligraphy",
+  "name": "lin_calligraphy",
   "version": "1.0.0",
-  "description": "Lin caligraphy",
+  "description": "Lin calligraphy",
   "author": "Loxi",
   "private": true,
   "scripts": {
